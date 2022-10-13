@@ -1,1 +1,1 @@
-# clockjavascript
+# digitalclock
